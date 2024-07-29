@@ -1,0 +1,40 @@
+.box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.filters {
+    display: flex;
+    justify-content: end;
+    margin-bottom: 30px;
+    margin-top: 20px;
+    width: 900px;
+}
+
+label {
+    margin: 0 10px;
+}
+
+select {
+    width: 100px;
+    border: 1.5px solid black;
+    border-radius: 2px;
+}
+
+input {
+    width: 100px;
+    border: 1.5px solid black;
+    border-radius: 2px;
+}
+
+table {
+    width: 900px;
+    border-collapse: separate;
+    border-spacing: 0 15px;
+}
+
+th {
+    text-align: left;
+}
+
